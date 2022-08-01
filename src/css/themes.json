@@ -1,0 +1,55 @@
+{
+  "lightTheme": {
+    "main": "#f7f7fa",
+    "primaryColor": "#232323",
+    "secondaryColor": "#eefaff",
+    "lowContrast": "#efefef",
+    "noContrast": "#fff",
+    "fieldShadow": "inset 0px 0px 1px 2px #96cc98",
+    "green400": "#388e3c",
+    "blue400": "#2278e5",
+    "blue300": "",
+    "blue200": "",
+    "blue100": "#8bb2e2ba",
+    "field": "#4caf50",
+    "fieldLines": "#f7f7f766",
+    "nav": "#efefef99",
+    "navBorder": "#f3f3f3",
+    "navSelected": "#388e3c",
+    "name": "light"
+  },
+
+  "darkTheme": {
+    "main": "#141e30",
+    "primaryColor": "#ffffffe6",
+    "secondaryColor": "#071127",
+    "lowContrast": "#111927",
+    "noContrast": "#232e44",
+    "green400": "#388e3c",
+    "blue200": "#2d3c5d",
+    "blue300": "#212e4a",
+    "blue400": "#212e4a",
+    "blue100": "#2d3c5d",
+    "fieldShadow": "inset 0px 0px 1px 2px #0a711a",
+    "field": "#02981b",
+    "fieldLines": "#0000001f",
+    "navBorder": "#233556",
+    "nav": "#232e44",
+    "navSelected": "#95e898",
+    "name": "dark"
+  },
+
+  "global": {
+    "phoneWidth": "655px",
+    "phoneHeight": "1135px",
+    "phoneContentWidthExtraSmall": "301px",
+    "phoneContentHeightExtraSmall": "554px",
+    "phoneContentWidthSmall": "364px",
+    "phoneContentHeightSmall": "702px",
+    "phoneContentWidth": "437px",
+    "phoneContentHeight": "802px",
+    "mediaQueryWidth": "650px",
+    "white400": "#f7f7fa"
+  }
+
+}

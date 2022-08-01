@@ -1,0 +1,1474 @@
+{
+  "1HMDEGDTNdK6NBPJAIjw": {
+    "shortName": "Ajax",
+    "nameCode": "AJA",
+    "name": "Ajax",
+    "manager": {
+      "shortName": "E. t. Hag",
+      "slug": "erik-ten-hag",
+      "name": "Erik ten Hag"
+    },
+    "country": "netherlands",
+    "colors": {
+      "secondary": "#ffffff",
+      "text": "#ffffff",
+      "primary": "#cc0000"
+    },
+    "competitionId": "football_champions_league",
+    "slug": "ajax",
+    "stadium": {
+      "capacity": 54990,
+      "name": "Johan Cruijff Arena"
+    },
+    "teamId": "1HMDEGDTNdK6NBPJAIjw"
+  },
+  "2N4xKR7QBo0IjJ6FZJeY": {
+    "manager": {
+      "shortName": "S. Dyche",
+      "slug": "sean-dyche",
+      "name": "Sean Dyche"
+    },
+    "stadium": {
+      "capacity": 21401,
+      "name": "Turf Moor"
+    },
+    "colors": {
+      "primary": "#81204c",
+      "text": "#8fd2f4",
+      "secondary": "#8fd2f4"
+    },
+    "competitionId": "football_england_league_1",
+    "slug": "burnley",
+    "shortName": "Burnley",
+    "country": "england",
+    "name": "Burnley",
+    "nameCode": "BUR",
+    "teamId": "2N4xKR7QBo0IjJ6FZJeY"
+  },
+  "2tBpOuM1BbeRkQJAA97I": {
+    "nameCode": "RVA",
+    "slug": "real-valladolid",
+    "competitionId": "football_spain_league_1",
+    "stadium": {
+      "name": "José Zorrilla",
+      "capacity": 27846
+    },
+    "name": "Real Valladolid",
+    "colors": {
+      "secondary": "#663399",
+      "primary": "#ffffff",
+      "text": "#663399"
+    },
+    "shortName": "Valladolid",
+    "manager": {
+      "slug": "sergio",
+      "shortName": "Sergio",
+      "name": "Sergio"
+    },
+    "country": "spain",
+    "teamId": "2tBpOuM1BbeRkQJAA97I"
+  },
+  "3ELIasqtfTeooE4oGhJ1": {
+    "slug": "basaksehir-fk",
+    "country": "turkey",
+    "stadium": {
+      "capacity": 17156,
+      "name": "Basaksehir Fatih Terim Stadium"
+    },
+    "colors": {
+      "text": "#ff3300",
+      "primary": "#ff3300",
+      "secondary": "#ff3300"
+    },
+    "shortName": "Başakşehir F.K.",
+    "competitionId": "football_champions_league",
+    "name": "Başakşehir F.K.",
+    "manager": {
+      "name": "Okan Buruk",
+      "slug": "okan-buruk",
+      "shortName": "O. Buruk"
+    },
+    "nameCode": "IBA",
+    "teamId": "3ELIasqtfTeooE4oGhJ1"
+  },
+  "4SR7KU1RF8TjADnLZKuX": {
+    "country": "spain",
+    "colors": {
+      "text": "#ffffff",
+      "primary": "#6cace4",
+      "secondary": "#ffffff"
+    },
+    "nameCode": "CEL",
+    "slug": "celta-vigo",
+    "shortName": "Celta",
+    "manager": {
+      "slug": "eduardo-coudet",
+      "shortName": "E. Coudet",
+      "name": "Eduardo Coudet"
+    },
+    "name": "Celta Vigo",
+    "stadium": {
+      "capacity": 31800,
+      "name": "Municipal de Balaidos"
+    },
+    "competitionId": "football_spain_league_1",
+    "teamId": "4SR7KU1RF8TjADnLZKuX"
+  },
+  "65R52LCE9TvFaSB5tMmy": {
+    "manager": {
+      "name": "Michel",
+      "shortName": "Michel",
+      "slug": "michel"
+    },
+    "stadium": {
+      "capacity": 7600,
+      "name": "El Alcoraz"
+    },
+    "competitionId": "football_spain_league_1",
+    "name": "Huesca",
+    "shortName": "Huesca",
+    "slug": "huesca",
+    "nameCode": "HUE",
+    "country": "spain",
+    "colors": {
+      "text": "#ff0000",
+      "primary": "#13324f",
+      "secondary": "#ff0000"
+    },
+    "teamId": "65R52LCE9TvFaSB5tMmy"
+  },
+  "8Zzaiq6Ytwd2Lf6gcoVI": {
+    "nameCode": "BET",
+    "colors": {
+      "primary": "#ffffff",
+      "text": "#006633",
+      "secondary": "#006633"
+    },
+    "shortName": "Betis",
+    "country": "spain",
+    "stadium": {
+      "capacity": 60721,
+      "name": "Benito Villamarin"
+    },
+    "competitionId": "football_spain_league_1",
+    "manager": {
+      "name": "Manuel Pellegrini",
+      "slug": "manuel-pellegrini",
+      "shortName": "M. Pellegrini"
+    },
+    "name": "Real Betis",
+    "slug": "real-betis",
+    "teamId": "8Zzaiq6Ytwd2Lf6gcoVI"
+  },
+  "ALHNPmhXSndChTUAQeMT": {
+    "country": "hungary",
+    "name": "Ferencvárosi TC",
+    "slug": "ferencvarosi-tc",
+    "shortName": "Ferencvárosi",
+    "competitionId": "football_champions_league",
+    "stadium": {
+      "name": "Groupama Aréna",
+      "capacity": 22000
+    },
+    "colors": {
+      "primary": "#ffffff",
+      "text": "#339900",
+      "secondary": "#339900"
+    },
+    "nameCode": "FTC",
+    "manager": {
+      "slug": "serhiy-rebrov",
+      "shortName": "S. Rebrov",
+      "name": "Serhiy Rebrov"
+    },
+    "teamId": "ALHNPmhXSndChTUAQeMT"
+  },
+  "Ao9fqwaFdtkcNFPJ65qJ": {
+    "colors": {
+      "text": "#ffffff",
+      "primary": "#000000",
+      "secondary": "#ffffff"
+    },
+    "manager": {
+      "shortName": "S. Bruce",
+      "name": "Steve Bruce",
+      "slug": "steve-bruce"
+    },
+    "stadium": {
+      "capacity": 52338,
+      "name": "St James' Park"
+    },
+    "slug": "newcastle-united",
+    "competitionId": "football_england_league_1",
+    "shortName": "Newcastle",
+    "nameCode": "NEW",
+    "country": "england",
+    "name": "Newcastle United",
+    "teamId": "Ao9fqwaFdtkcNFPJ65qJ"
+  },
+  "B2AEEyaThgxHi9WyOIKD": {
+    "country": "england",
+    "stadium": {
+      "name": "King Power Stadium",
+      "capacity": 32312
+    },
+    "shortName": "Leicester",
+    "manager": {
+      "slug": "brendan-rodgers",
+      "shortName": "B. Rodgers",
+      "name": "Brendan Rodgers"
+    },
+    "slug": "leicester-city",
+    "nameCode": "LEI",
+    "competitionId": "football_england_league_1",
+    "name": "Leicester City",
+    "colors": {
+      "text": "#ffffff",
+      "primary": "#0b56a4",
+      "secondary": "#ffffff"
+    },
+    "teamId": "B2AEEyaThgxHi9WyOIKD"
+  },
+  "BF4nW08AIJs45qfQj1Cc": {
+    "country": "russia",
+    "nameCode": "LKM",
+    "shortName": "Lokomotiv",
+    "slug": "lokomotiv-moscow",
+    "manager": {
+      "name": "Marko Nikolić",
+      "slug": "marko-nikolic",
+      "shortName": "M. Nikolić"
+    },
+    "colors": {
+      "text": "#006200",
+      "secondary": "#006200",
+      "primary": "#00bf00"
+    },
+    "stadium": {
+      "capacity": 28800,
+      "name": "RZD Arena"
+    },
+    "name": "Lokomotiv Moscow",
+    "competitionId": "football_champions_league",
+    "teamId": "BF4nW08AIJs45qfQj1Cc"
+  },
+  "BklArAVFXL2FQikb9Mkb": {
+    "shortName": "M'gladbach",
+    "colors": {
+      "primary": "#ffffff",
+      "text": "#000000",
+      "secondary": "#000000"
+    },
+    "manager": {
+      "shortName": "M. Rose",
+      "slug": "marco-rose",
+      "name": "Marco Rose"
+    },
+    "stadium": {
+      "capacity": 54057,
+      "name": "Borussia-Park"
+    },
+    "competitionId": "football_germany_league_1",
+    "slug": "borussia-mgladbach",
+    "nameCode": "BMG",
+    "country": "germany",
+    "name": "Borussia M'gladbach",
+    "teamId": "BklArAVFXL2FQikb9Mkb"
+  },
+  "ESRCBkIEAB6lAIj5Am7T": {
+    "name": "RB Leipzig",
+    "nameCode": "LEI",
+    "country": "germany",
+    "slug": "rb-leipzig",
+    "colors": {
+      "primary": "#ffffff",
+      "secondary": "#dd0000",
+      "text": "#dd0000"
+    },
+    "competitionId": "football_germany_league_1",
+    "manager": {
+      "name": "Julian Nagelsmann",
+      "slug": "julian-nagelsmann",
+      "shortName": "J. Nagelsmann"
+    },
+    "stadium": {
+      "capacity": 42558,
+      "name": "Red Bull Arena"
+    },
+    "shortName": "RB Leipzig",
+    "teamId": "ESRCBkIEAB6lAIj5Am7T"
+  },
+  "FTtgZ7SFhhzpUuIEQUeF": {
+    "slug": "club-brugge",
+    "stadium": {
+      "name": "Jan Breydel Stadium",
+      "capacity": 29975
+    },
+    "name": "Club Brugge",
+    "manager": {
+      "slug": "philippe-clement",
+      "name": "Philippe Clement",
+      "shortName": "P. Clement"
+    },
+    "competitionId": "football_champions_league",
+    "colors": {
+      "secondary": "#000000",
+      "primary": "#0080ff",
+      "text": "#000000"
+    },
+    "nameCode": "CBR",
+    "shortName": "Club Brugge",
+    "country": "belgium",
+    "teamId": "FTtgZ7SFhhzpUuIEQUeF"
+  },
+  "Fs4Z3mCS7nCIFfRdY6Oc": {
+    "competitionId": "football_england_league_1",
+    "manager": {
+      "slug": "jurgen-klopp",
+      "shortName": "J. Klopp",
+      "name": "Jürgen Klopp"
+    },
+    "country": "england",
+    "shortName": "Liverpool",
+    "stadium": {
+      "name": "Anfield",
+      "capacity": 54074
+    },
+    "colors": {
+      "text": "#ffffff",
+      "secondary": "#ffffff",
+      "primary": "#cc0000"
+    },
+    "nameCode": "LIV",
+    "slug": "liverpool",
+    "name": "Liverpool",
+    "teamId": "Fs4Z3mCS7nCIFfRdY6Oc"
+  },
+  "LIl74RGtTtaw5faKWiSf": {
+    "manager": {
+      "shortName": "L. Castro",
+      "slug": "luis-castro",
+      "name": "Luís Castro"
+    },
+    "nameCode": "SHK",
+    "slug": "shakhtar-donetsk",
+    "colors": {
+      "text": "#ff6600",
+      "secondary": "#ff6600",
+      "primary": "#ff6600"
+    },
+    "country": "ukraine",
+    "name": "Shakhtar Donetsk",
+    "stadium": {
+      "capacity": 70000,
+      "name": "NSK Olimpiyskyi"
+    },
+    "shortName": "Shakhtar D.",
+    "competitionId": "football_champions_league",
+    "teamId": "LIl74RGtTtaw5faKWiSf"
+  },
+  "MPnLSjbJIX9SIJAMwh9C": {
+    "stadium": {
+      "name": "Estadio de Mendizorroza",
+      "capacity": 19840
+    },
+    "nameCode": "ALA",
+    "competitionId": "football_spain_league_1",
+    "shortName": "Alavés",
+    "slug": "deportivo-alaves",
+    "country": "spain",
+    "colors": {
+      "primary": "#044ea0",
+      "text": "#ffffff",
+      "secondary": "#ffffff"
+    },
+    "name": "Deportivo Alavés",
+    "manager": {
+      "shortName": "P. Machin",
+      "slug": "pablo-machin",
+      "name": "Pablo Machin"
+    },
+    "teamId": "MPnLSjbJIX9SIJAMwh9C"
+  },
+  "Mp9Q2tRE0O29wuhVb7T9": {
+    "slug": "barcelona",
+    "name": "Barcelona",
+    "country": "spain",
+    "shortName": "Barcelona",
+    "manager": {
+      "shortName": "R. Koeman",
+      "slug": "ronald-koeman",
+      "name": "Ronald Koeman"
+    },
+    "colors": {
+      "text": "#9d1009",
+      "secondary": "#9d1009",
+      "primary": "#154284"
+    },
+    "nameCode": "BAR",
+    "competitionId": "football_spain_league_1",
+    "stadium": {
+      "capacity": 98787,
+      "name": "Camp Nou"
+    },
+    "teamId": "Mp9Q2tRE0O29wuhVb7T9"
+  },
+  "Nk6ysGYJ3nyKjbS12EAN": {
+    "nameCode": "SEV",
+    "name": "Sevilla",
+    "competitionId": "football_spain_league_1",
+    "stadium": {
+      "name": "Ramon Sanchez Pizjuan",
+      "capacity": 45500
+    },
+    "country": "spain",
+    "colors": {
+      "secondary": "#cc1020",
+      "text": "#cc1020",
+      "primary": "#ffffff"
+    },
+    "shortName": "Sevilla",
+    "slug": "sevilla",
+    "manager": {
+      "slug": "julen-lopetegui",
+      "shortName": "J. Lopetegui",
+      "name": "Julen Lopetegui"
+    },
+    "teamId": "Nk6ysGYJ3nyKjbS12EAN"
+  },
+  "Q2oHKTp7NlpLSDMwqniY": {
+    "nameCode": "BAY",
+    "colors": {
+      "secondary": "#ffffff",
+      "text": "#ffffff",
+      "primary": "#cf142f"
+    },
+    "slug": "bayern-munchen",
+    "country": "germany",
+    "name": "Bayern München",
+    "stadium": {
+      "capacity": 75000,
+      "name": "Allianz Arena"
+    },
+    "shortName": "Bayern M.",
+    "competitionId": "football_germany_league_1",
+    "manager": {
+      "slug": "hans-dieter-flick",
+      "name": "Hans-Dieter Flick",
+      "shortName": "H. Flick"
+    },
+    "teamId": "Q2oHKTp7NlpLSDMwqniY"
+  },
+  "QuzuH4jEYTrhYZryLS6B": {
+    "colors": {
+      "secondary": "#2d2f84",
+      "primary": "#ffffff",
+      "text": "#2d2f84"
+    },
+    "manager": {
+      "name": "Slaven Bilić",
+      "slug": "slaven-bilic",
+      "shortName": "S. Bilić"
+    },
+    "country": "england",
+    "stadium": {
+      "capacity": 26445,
+      "name": "The Hawthorns"
+    },
+    "name": "West Bromwich Albion",
+    "shortName": "West Brom",
+    "nameCode": "WBA",
+    "competitionId": "football_england_league_1",
+    "slug": "west-bromwich-albion",
+    "teamId": "QuzuH4jEYTrhYZryLS6B"
+  },
+  "T1XxjblEJSE3Pa52uIef": {
+    "colors": {
+      "secondary": "#ffffff",
+      "primary": "#aa0000",
+      "text": "#ffffff"
+    },
+    "name": "Athletic Bilbao",
+    "competitionId": "football_spain_league_1",
+    "stadium": {
+      "capacity": 53289,
+      "name": "San Mames"
+    },
+    "nameCode": "ATH",
+    "slug": "athletic-bilbao",
+    "country": "spain",
+    "shortName": "Athletic",
+    "manager": {
+      "shortName": "G. Garitano",
+      "slug": "gaizka-garitano",
+      "name": "Gaizka Garitano"
+    },
+    "teamId": "T1XxjblEJSE3Pa52uIef"
+  },
+  "TSfNz9LRGOjn6aY9I6ig": {
+    "shortName": "Atl. Madrid",
+    "name": "Atlético Madrid",
+    "slug": "atletico-madrid",
+    "manager": {
+      "shortName": "D. Simeone",
+      "name": "Diego Simeone",
+      "slug": "diego-simeone"
+    },
+    "country": "spain",
+    "stadium": {
+      "name": "Wanda Metropolitano",
+      "capacity": 67942
+    },
+    "colors": {
+      "primary": "#ffffff",
+      "secondary": "#c40000",
+      "text": "#c40000"
+    },
+    "nameCode": "ATL",
+    "competitionId": "football_spain_league_1",
+    "teamId": "TSfNz9LRGOjn6aY9I6ig"
+  },
+  "TaJ8iFEdMeXddPXUMnzg": {
+    "nameCode": "POR",
+    "slug": "fc-porto",
+    "competitionId": "football_champions_league",
+    "country": "portugal",
+    "manager": {
+      "name": "Sérgio Conceição",
+      "slug": "sergio-conceicao",
+      "shortName": "S. Conceição"
+    },
+    "shortName": "Porto",
+    "colors": {
+      "secondary": "#ffffff",
+      "text": "#ffffff",
+      "primary": "#3333ff"
+    },
+    "stadium": {
+      "name": "Estadio do Dragao",
+      "capacity": 52033
+    },
+    "name": "FC Porto",
+    "teamId": "TaJ8iFEdMeXddPXUMnzg"
+  },
+  "TaXm9zDRA5uegsUrNsNV": {
+    "shortName": "Real Sociedad",
+    "country": "spain",
+    "stadium": {
+      "name": "Reale Arena",
+      "capacity": 39500
+    },
+    "competitionId": "football_spain_league_1",
+    "slug": "real-sociedad",
+    "nameCode": "SOC",
+    "manager": {
+      "slug": "imanol-alguacil-barrenetxea",
+      "name": "Imanol Alguacil Barrenetxea",
+      "shortName": "I. A. Barrenetxea"
+    },
+    "name": "Real Sociedad",
+    "colors": {
+      "primary": "#ffffff",
+      "secondary": "#0077c7",
+      "text": "#0077c7"
+    },
+    "teamId": "TaXm9zDRA5uegsUrNsNV"
+  },
+  "TrWVYAaVGEBuBA7FK1TR": {
+    "country": "austria",
+    "stadium": {
+      "capacity": 30188,
+      "name": "Red Bull Arena"
+    },
+    "slug": "red-bull-salzburg",
+    "colors": {
+      "text": "#ff0000",
+      "secondary": "#ff0000",
+      "primary": "#ffffff"
+    },
+    "name": "Red Bull Salzburg",
+    "nameCode": "RBS",
+    "manager": {
+      "name": "Jesse Marsch",
+      "shortName": "J. Marsch",
+      "slug": "jesse-marsch"
+    },
+    "competitionId": "football_champions_league",
+    "shortName": "RB Salzburg",
+    "teamId": "TrWVYAaVGEBuBA7FK1TR"
+  },
+  "U9fYTyDALlu3BdkbaaJY": {
+    "name": "Atalanta",
+    "manager": {
+      "slug": "gian-piero-gasperini",
+      "name": "Gian Piero Gasperini",
+      "shortName": "G. P. Gasperini"
+    },
+    "colors": {
+      "primary": "#0000cc",
+      "secondary": "#000000",
+      "text": "#000000"
+    },
+    "shortName": "Atalanta",
+    "country": "italy",
+    "stadium": {
+      "name": "Gewiss Stadium",
+      "capacity": 26393
+    },
+    "competitionId": "football_italian_league_1",
+    "slug": "atalanta",
+    "nameCode": "ATA",
+    "teamId": "U9fYTyDALlu3BdkbaaJY"
+  },
+  "VF7sg7lHPMzFa1k7l1K5": {
+    "nameCode": "MUN",
+    "country": "england",
+    "name": "Manchester United",
+    "shortName": "Man Utd",
+    "competitionId": "football_england_league_1",
+    "stadium": {
+      "capacity": 75635,
+      "name": "Old Trafford"
+    },
+    "colors": {
+      "primary": "#ff0000",
+      "secondary": "#373737",
+      "text": "#373737"
+    },
+    "slug": "manchester-united",
+    "manager": {
+      "name": "Ole Gunnar Solskjær",
+      "slug": "ole-gunnar-solskjaer",
+      "shortName": "O. G. Solskjær"
+    },
+    "teamId": "VF7sg7lHPMzFa1k7l1K5"
+  },
+  "XVCaK94ncSJPMlTSVES1": {
+    "slug": "fulham",
+    "shortName": "Fulham",
+    "country": "england",
+    "competitionId": "football_england_league_1",
+    "nameCode": "FUL",
+    "colors": {
+      "primary": "#ffffff",
+      "text": "#000000",
+      "secondary": "#000000"
+    },
+    "stadium": {
+      "capacity": 25700,
+      "name": "Craven Cottage"
+    },
+    "manager": {
+      "shortName": "S. Parker",
+      "name": "Scott Parker",
+      "slug": "scott-parker"
+    },
+    "name": "Fulham",
+    "teamId": "XVCaK94ncSJPMlTSVES1"
+  },
+  "Xy5d9iTai48DFypJB3Bx": {
+    "slug": "borussia-dortmund",
+    "stadium": {
+      "capacity": 81365,
+      "name": "Signal Iduna Park"
+    },
+    "shortName": "Dortmund",
+    "country": "germany",
+    "competitionId": "football_germany_league_1",
+    "colors": {
+      "secondary": "#000000",
+      "primary": "#ffe600",
+      "text": "#000000"
+    },
+    "nameCode": "BVB",
+    "name": "Borussia Dortmund",
+    "manager": {
+      "shortName": "L. Favre",
+      "slug": "lucien-favre",
+      "name": "Lucien Favre"
+    },
+    "teamId": "Xy5d9iTai48DFypJB3Bx"
+  },
+  "YmYU20qmXsgpgp1a9R9Q": {
+    "nameCode": "ARS",
+    "slug": "arsenal",
+    "name": "Arsenal",
+    "shortName": "Arsenal",
+    "manager": {
+      "slug": "mikel-arteta",
+      "name": "Mikel Arteta",
+      "shortName": "M. Arteta"
+    },
+    "country": "england",
+    "competitionId": "football_england_league_1",
+    "colors": {
+      "primary": "#cc0000",
+      "text": "#ffffff",
+      "secondary": "#ffffff"
+    },
+    "stadium": {
+      "capacity": 60272,
+      "name": "Emirates Stadium"
+    },
+    "teamId": "YmYU20qmXsgpgp1a9R9Q"
+  },
+  "ZzbgOQHvcYpoWt4yIInA": {
+    "manager": {
+      "slug": "thomas-tuchel",
+      "name": "Thomas Tuchel",
+      "shortName": "T. Tuchel"
+    },
+    "name": "Paris Saint-Germain",
+    "stadium": {
+      "capacity": 47929,
+      "name": "Parc des Princes"
+    },
+    "country": "france",
+    "competitionId": "football_france_league_1",
+    "nameCode": "PSG",
+    "shortName": "PSG",
+    "colors": {
+      "secondary": "#ff1541",
+      "text": "#ff1541",
+      "primary": "#000066"
+    },
+    "slug": "paris-saint-germain",
+    "teamId": "ZzbgOQHvcYpoWt4yIInA"
+  },
+  "aQprU9TU7tid0JE2h4bQ": {
+    "competitionId": "football_england_league_1",
+    "name": "Crystal Palace",
+    "country": "england",
+    "nameCode": "CRY",
+    "stadium": {
+      "capacity": 25073,
+      "name": "Selhurst Park"
+    },
+    "shortName": "Crystal Palace",
+    "manager": {
+      "name": "Roy Hodgson",
+      "shortName": "R. Hodgson",
+      "slug": "roy-hodgson"
+    },
+    "slug": "crystal-palace",
+    "colors": {
+      "primary": "#0033ff",
+      "secondary": "#b90d2b",
+      "text": "#b90d2b"
+    },
+    "teamId": "aQprU9TU7tid0JE2h4bQ"
+  },
+  "cb17pQLyJy0Ang8ZEjwi": {
+    "country": "france",
+    "shortName": "Rennes",
+    "nameCode": "REN",
+    "manager": {
+      "slug": "julien-stephan",
+      "name": "Julien Stéphan",
+      "shortName": "J. Stéphan"
+    },
+    "slug": "stade-rennais",
+    "colors": {
+      "secondary": "#000000",
+      "primary": "#ff0000",
+      "text": "#000000"
+    },
+    "stadium": {
+      "capacity": 29778,
+      "name": "Roazhon Park"
+    },
+    "name": "Stade Rennais",
+    "competitionId": "football_france_league_1",
+    "teamId": "cb17pQLyJy0Ang8ZEjwi"
+  },
+  "dUFaPjSnojRxb6TZcHA8": {
+    "shortName": "Real Madrid",
+    "name": "Real Madrid",
+    "nameCode": "RMA",
+    "competitionId": "football_spain_league_1",
+    "manager": {
+      "shortName": "Z. Zidane",
+      "name": "Zinédine Zidane",
+      "slug": "zinedine-zidane"
+    },
+    "slug": "real-madrid",
+    "stadium": {
+      "capacity": 81044,
+      "name": "Santiago Bernabeu"
+    },
+    "colors": {
+      "text": "#004996",
+      "primary": "#ffffff",
+      "secondary": "#004996"
+    },
+    "country": "spain",
+    "teamId": "dUFaPjSnojRxb6TZcHA8"
+  },
+  "djz28RfzkyHm6WwnDsfN": {
+    "competitionId": "football_italian_league_1",
+    "slug": "inter",
+    "stadium": {
+      "capacity": 80018,
+      "name": "San Siro/Giuseppe Meazza"
+    },
+    "manager": {
+      "shortName": "A. Conte",
+      "name": "Antonio Conte",
+      "slug": "antonio-conte"
+    },
+    "nameCode": "INT",
+    "country": "italy",
+    "colors": {
+      "text": "#000000",
+      "primary": "#1a57cc",
+      "secondary": "#000000"
+    },
+    "shortName": "Inter",
+    "name": "Inter",
+    "teamId": "djz28RfzkyHm6WwnDsfN"
+  },
+  "ew3Ndw5Yhbv96CRHnqAc": {
+    "competitionId": "football_spain_league_1",
+    "slug": "villarreal",
+    "country": "spain",
+    "stadium": {
+      "name": "Estadio de la Ceramica",
+      "capacity": 23500
+    },
+    "nameCode": "VIL",
+    "colors": {
+      "primary": "#ffff00",
+      "text": "#013765",
+      "secondary": "#013765"
+    },
+    "shortName": "Villarreal",
+    "name": "Villarreal",
+    "manager": {
+      "shortName": "U. Emery",
+      "name": "Unai Emery",
+      "slug": "unai-emery"
+    },
+    "teamId": "ew3Ndw5Yhbv96CRHnqAc"
+  },
+  "fMyltLUzjtLGwsbDoVuY": {
+    "manager": {
+      "name": "Jose Luis Mendilibar",
+      "shortName": "J. L. Mendilibar",
+      "slug": "jose-luis-mendilibar"
+    },
+    "colors": {
+      "primary": "#003e85",
+      "secondary": "#cd152f",
+      "text": "#cd152f"
+    },
+    "shortName": "Eibar",
+    "name": "Eibar",
+    "stadium": {
+      "capacity": 8164,
+      "name": "Ipurua Municipal Stadium"
+    },
+    "country": "spain",
+    "competitionId": "football_spain_league_1",
+    "slug": "eibar",
+    "nameCode": "EIB",
+    "teamId": "fMyltLUzjtLGwsbDoVuY"
+  },
+  "fh7dXFVGiONApR1n79XH": {
+    "shortName": "Midtjylland",
+    "nameCode": "MID",
+    "name": "FC Midtjylland",
+    "manager": {
+      "shortName": "B. Priske",
+      "name": "Brian Priske",
+      "slug": "brian-priske"
+    },
+    "competitionId": "football_champions_league",
+    "stadium": {
+      "capacity": 11809,
+      "name": "MCH Arena"
+    },
+    "slug": "fc-midtjylland",
+    "colors": {
+      "text": "#000000",
+      "secondary": "#000000",
+      "primary": "#000000"
+    },
+    "country": "denmark",
+    "teamId": "fh7dXFVGiONApR1n79XH"
+  },
+  "gyODuBM3p7wfWryi7NGk": {
+    "country": "italy",
+    "slug": "juventus",
+    "colors": {
+      "text": "#000000",
+      "secondary": "#000000",
+      "primary": "#ffffff"
+    },
+    "name": "Juventus",
+    "competitionId": "football_italian_league_1",
+    "nameCode": "JUV",
+    "stadium": {
+      "name": "Allianz Stadium",
+      "capacity": 41507
+    },
+    "shortName": "Juventus",
+    "manager": {
+      "shortName": "A. Pirlo",
+      "slug": "andrea-pirlo",
+      "name": "Andrea Pirlo"
+    },
+    "teamId": "gyODuBM3p7wfWryi7NGk"
+  },
+  "jITltCr8lTH3DRxHDsCH": {
+    "slug": "aston-villa",
+    "competitionId": "football_england_league_1",
+    "stadium": {
+      "capacity": 42682,
+      "name": "Villa Park"
+    },
+    "colors": {
+      "primary": "#670e36",
+      "secondary": "#94bee5",
+      "text": "#94bee5"
+    },
+    "name": "Aston Villa",
+    "nameCode": "AVL",
+    "manager": {
+      "slug": "dean-smith",
+      "name": "Dean Smith",
+      "shortName": "D. Smith"
+    },
+    "country": "england",
+    "shortName": "Aston Villa",
+    "teamId": "jITltCr8lTH3DRxHDsCH"
+  },
+  "jLDIIzaGjIzvJMEGQ7XJ": {
+    "manager": {
+      "name": "Diego Martinez",
+      "slug": "diego-martinez",
+      "shortName": "D. Martinez"
+    },
+    "colors": {
+      "primary": "#cc0000",
+      "secondary": "#ffffff",
+      "text": "#ffffff"
+    },
+    "stadium": {
+      "capacity": 23156,
+      "name": "Estadio Nuevo Los Carmenes"
+    },
+    "slug": "granada",
+    "shortName": "Granada",
+    "nameCode": "GRA",
+    "name": "Granada",
+    "competitionId": "football_spain_league_1",
+    "country": "spain",
+    "teamId": "jLDIIzaGjIzvJMEGQ7XJ"
+  },
+  "jWuZq2UPtzqA77PLqqqj": {
+    "name": "Manchester City",
+    "shortName": "Man City",
+    "slug": "manchester-city",
+    "stadium": {
+      "name": "Etihad Stadium",
+      "capacity": 46708
+    },
+    "colors": {
+      "text": "#ffffff",
+      "secondary": "#ffffff",
+      "primary": "#66ccff"
+    },
+    "manager": {
+      "name": "Pep Guardiola",
+      "shortName": "P. Guardiola",
+      "slug": "pep-guardiola"
+    },
+    "nameCode": "MNC",
+    "competitionId": "football_england_league_1",
+    "country": "england",
+    "teamId": "jWuZq2UPtzqA77PLqqqj"
+  },
+  "k80WrH1YfuKaP6OXlYVU": {
+    "manager": {
+      "slug": "murad-musaev",
+      "name": "Murad Musaev",
+      "shortName": "M. Musaev"
+    },
+    "slug": "fc-krasnodar",
+    "colors": {
+      "text": "#000000",
+      "secondary": "#000000",
+      "primary": "#003333"
+    },
+    "country": "russia",
+    "stadium": {
+      "name": "Krasnodar Stadium",
+      "capacity": 35074
+    },
+    "nameCode": "KRA",
+    "competitionId": "football_champions_league",
+    "shortName": "Krasnodar",
+    "name": "FC Krasnodar",
+    "teamId": "k80WrH1YfuKaP6OXlYVU"
+  },
+  "kPCEIXgcbkc4Nj3GyKZB": {
+    "stadium": {
+      "name": "Gazprom Arena",
+      "capacity": 70000
+    },
+    "name": "Zenit St. Petersburg",
+    "slug": "zenit-st-petersburg",
+    "country": "russia",
+    "nameCode": "ZEN",
+    "manager": {
+      "shortName": "S. Semak",
+      "slug": "sergej-semak",
+      "name": "Sergej Semak"
+    },
+    "shortName": "Zenit",
+    "colors": {
+      "primary": "#95e4ff",
+      "text": "#9be7ff",
+      "secondary": "#9be7ff"
+    },
+    "competitionId": "football_champions_league",
+    "teamId": "kPCEIXgcbkc4Nj3GyKZB"
+  },
+  "le0pM8if1a3AUbMEBwEU": {
+    "country": "spain",
+    "manager": {
+      "name": "Jorge Almiron",
+      "shortName": "J. Almiron",
+      "slug": "jorge-almiron"
+    },
+    "shortName": "Elche",
+    "slug": "elche-cf",
+    "nameCode": "ELC",
+    "colors": {
+      "primary": "#ffffff",
+      "secondary": "#336600",
+      "text": "#336600"
+    },
+    "stadium": {
+      "name": "Estadio Martínez Valero",
+      "capacity": 36017
+    },
+    "competitionId": "football_spain_league_1",
+    "name": "Elche CF",
+    "teamId": "le0pM8if1a3AUbMEBwEU"
+  },
+  "nm2zgPH9pmgQCbE6HYrY": {
+    "slug": "levante",
+    "colors": {
+      "secondary": "#d70000",
+      "text": "#d70000",
+      "primary": "#0e3b68"
+    },
+    "nameCode": "LEV",
+    "name": "Levante",
+    "country": "spain",
+    "competitionId": "football_spain_league_1",
+    "stadium": {
+      "capacity": 26354,
+      "name": "Ciudad de Valencia"
+    },
+    "manager": {
+      "shortName": "P. Lopez",
+      "name": "Paco Lopez",
+      "slug": "paco-lopez"
+    },
+    "shortName": "Levante",
+    "teamId": "nm2zgPH9pmgQCbE6HYrY"
+  },
+  "pXs2HxezvMhMdkUq1ZgU": {
+    "competitionId": "football_champions_league",
+    "slug": "dynamo-kyiv",
+    "country": "ukraine",
+    "stadium": {
+      "capacity": 70050,
+      "name": "Olimpiysky National Sports Complex"
+    },
+    "shortName": "Dynamo Kyiv",
+    "manager": {
+      "shortName": "M. Lucescu",
+      "slug": "mircea-lucescu",
+      "name": "Mircea Lucescu"
+    },
+    "colors": {
+      "text": "#ffffff",
+      "primary": "#ffffff",
+      "secondary": "#ffffff"
+    },
+    "nameCode": "DKY",
+    "name": "Dynamo Kyiv",
+    "teamId": "pXs2HxezvMhMdkUq1ZgU"
+  },
+  "pm6RI2qsgDSrQFlNWOai": {
+    "colors": {
+      "secondary": "#1d4189",
+      "primary": "#ffffff",
+      "text": "#1d4189"
+    },
+    "nameCode": "LUN",
+    "country": "england",
+    "name": "Leeds United",
+    "stadium": {
+      "name": "Elland Road",
+      "capacity": 39460
+    },
+    "competitionId": "football_england_league_1",
+    "slug": "leeds-united",
+    "shortName": "Leeds",
+    "manager": {
+      "slug": "marcelo-bielsa",
+      "name": "Marcelo Bielsa",
+      "shortName": "M. Bielsa"
+    },
+    "teamId": "pm6RI2qsgDSrQFlNWOai"
+  },
+  "pzUUCSmyFnCgR5ZDbcw8": {
+    "competitionId": "football_champions_league",
+    "name": "Olympiacos",
+    "country": "greece",
+    "manager": {
+      "shortName": "P. Martins",
+      "name": "Pedro Martins",
+      "slug": "pedro-martins"
+    },
+    "shortName": "Olympiacos",
+    "stadium": {
+      "name": "Georgios Karaiskakis",
+      "capacity": 32115
+    },
+    "colors": {
+      "primary": "#ff0000",
+      "text": "#ffffff",
+      "secondary": "#ffffff"
+    },
+    "slug": "olympiacos",
+    "nameCode": "OLY",
+    "teamId": "pzUUCSmyFnCgR5ZDbcw8"
+  },
+  "sWjuaisoSYwVww1igvtX": {
+    "nameCode": "BHA",
+    "name": "Brighton & Hove Albion",
+    "manager": {
+      "shortName": "G. Potter",
+      "name": "Graham Potter",
+      "slug": "graham-potter"
+    },
+    "country": "england",
+    "competitionId": "football_england_league_1",
+    "shortName": "Brighton",
+    "slug": "brighton-hove-albion",
+    "colors": {
+      "text": "#ffffff",
+      "primary": "#0054a6",
+      "secondary": "#ffffff"
+    },
+    "stadium": {
+      "name": "American Express Community Stadium",
+      "capacity": 30750
+    },
+    "teamId": "sWjuaisoSYwVww1igvtX"
+  },
+  "tN2Cn5UoYE9mvcqJWpGy": {
+    "country": "england",
+    "stadium": {
+      "name": "London Stadium",
+      "capacity": 60000
+    },
+    "colors": {
+      "secondary": "#59b3e4",
+      "primary": "#66192c",
+      "text": "#59b3e4"
+    },
+    "name": "West Ham United",
+    "manager": {
+      "slug": "david-moyes",
+      "name": "David Moyes",
+      "shortName": "D. Moyes"
+    },
+    "shortName": "West Ham",
+    "competitionId": "football_england_league_1",
+    "nameCode": "WHU",
+    "slug": "west-ham-united",
+    "teamId": "tN2Cn5UoYE9mvcqJWpGy"
+  },
+  "wSi3zgMsJyfPIadHUhM8": {
+    "manager": {
+      "name": "José Mourinho",
+      "shortName": "J. Mourinho",
+      "slug": "jose-mourinho"
+    },
+    "competitionId": "football_england_league_1",
+    "slug": "tottenham",
+    "country": "england",
+    "stadium": {
+      "capacity": 62000,
+      "name": "Tottenham Hotspur Stadium"
+    },
+    "name": "Tottenham",
+    "shortName": "Tottenham",
+    "colors": {
+      "text": "#000066",
+      "primary": "#ffffff",
+      "secondary": "#000066"
+    },
+    "nameCode": "TOT",
+    "teamId": "wSi3zgMsJyfPIadHUhM8"
+  },
+  "xT5VrorYHvlscGh2BgGQ": {
+    "manager": {
+      "shortName": "J. Bordalás",
+      "name": "José Bordalás",
+      "slug": "jose-bordalas"
+    },
+    "colors": {
+      "primary": "#00369e",
+      "secondary": "#ffffff",
+      "text": "#ffffff"
+    },
+    "shortName": "Getafe",
+    "name": "Getafe",
+    "competitionId": "football_spain_league_1",
+    "slug": "getafe",
+    "nameCode": "GET",
+    "country": "spain",
+    "stadium": {
+      "capacity": 17393,
+      "name": "Coliseum Alfonso Pérez"
+    },
+    "teamId": "xT5VrorYHvlscGh2BgGQ"
+  },
+  "xUDgwSOmfB9CYszdqAtN": {
+    "competitionId": "football_spain_league_1",
+    "name": "Valencia",
+    "shortName": "Valencia",
+    "nameCode": "VAL",
+    "country": "spain",
+    "stadium": {
+      "capacity": 55000,
+      "name": "Mestalla"
+    },
+    "slug": "valencia",
+    "colors": {
+      "primary": "#ffffff",
+      "text": "#000000",
+      "secondary": "#000000"
+    },
+    "manager": {
+      "name": "Javi Gracia",
+      "shortName": "J. Gracia",
+      "slug": "javi-gracia"
+    },
+    "teamId": "xUDgwSOmfB9CYszdqAtN"
+  },
+  "xiLgc5WicuyE4yVdsNLt": {
+    "nameCode": "OMA",
+    "slug": "olympique-de-marseille",
+    "manager": {
+      "shortName": "A. Villas-Boas",
+      "slug": "andre-villas-boas",
+      "name": "Andre Villas-Boas"
+    },
+    "shortName": "Marseille",
+    "colors": {
+      "primary": "#ffffff",
+      "text": "#66b3ff",
+      "secondary": "#66b3ff"
+    },
+    "country": "france",
+    "stadium": {
+      "capacity": 67000,
+      "name": "Orange Velodrome"
+    },
+    "competitionId": "football_france_league_1",
+    "name": "Olympique de Marseille",
+    "teamId": "xiLgc5WicuyE4yVdsNLt"
+  },
+  "xoUPgktVbaFzIwvWsJYw": {
+    "slug": "everton",
+    "nameCode": "EVE",
+    "stadium": {
+      "name": "Goodison Park",
+      "capacity": 39571
+    },
+    "manager": {
+      "shortName": "C. Ancelotti",
+      "name": "Carlo Ancelotti",
+      "slug": "carlo-ancelotti"
+    },
+    "shortName": "Everton",
+    "competitionId": "football_england_league_1",
+    "name": "Everton",
+    "colors": {
+      "text": "#ffffff",
+      "secondary": "#ffffff",
+      "primary": "#274488"
+    },
+    "country": "england",
+    "teamId": "xoUPgktVbaFzIwvWsJYw"
+  },
+  "yVcaSkhqNia3j3vS3HZV": {
+    "manager": {
+      "name": "Jagoba Arrasate",
+      "slug": "jagoba-arrasate",
+      "shortName": "J. Arrasate"
+    },
+    "slug": "osasuna",
+    "name": "Osasuna",
+    "country": "spain",
+    "shortName": "Osasuna",
+    "competitionId": "football_spain_league_1",
+    "nameCode": "OSA",
+    "stadium": {
+      "name": "Estadio El Sadar",
+      "capacity": 19800
+    },
+    "colors": {
+      "secondary": "#14213d",
+      "text": "#14213d",
+      "primary": "#cc0000"
+    },
+    "teamId": "yVcaSkhqNia3j3vS3HZV"
+  },
+  "yeCUkj6x6ANb6j4EfK7n": {
+    "colors": {
+      "text": "#ffffff",
+      "secondary": "#ffffff",
+      "primary": "#0310a7"
+    },
+    "competitionId": "football_england_league_1",
+    "stadium": {
+      "capacity": 41798,
+      "name": "Stamford Bridge"
+    },
+    "slug": "chelsea",
+    "shortName": "Chelsea",
+    "name": "Chelsea",
+    "country": "england",
+    "nameCode": "CHE",
+    "manager": {
+      "slug": "frank-lampard",
+      "shortName": "F. Lampard",
+      "name": "Frank Lampard"
+    },
+    "teamId": "yeCUkj6x6ANb6j4EfK7n"
+  },
+  "yi9by1A5QgZ4o8FYenyA": {
+    "manager": {
+      "slug": "simone-inzaghi",
+      "name": "Simone Inzaghi",
+      "shortName": "S. Inzaghi"
+    },
+    "name": "Lazio",
+    "stadium": {
+      "capacity": 70634,
+      "name": "Stadio Olimpico"
+    },
+    "country": "italy",
+    "slug": "lazio",
+    "competitionId": "football_italian_league_1",
+    "shortName": "Lazio",
+    "colors": {
+      "secondary": "#ffffff",
+      "text": "#ffffff",
+      "primary": "#64b6e1"
+    },
+    "nameCode": "LAZ",
+    "teamId": "yi9by1A5QgZ4o8FYenyA"
+  },
+  "yn1U2MUAJWH3S6E8cgPO": {
+    "country": "england",
+    "nameCode": "SOU",
+    "name": "Southampton",
+    "manager": {
+      "slug": "ralph-hasenhuttl",
+      "shortName": "R. Hasenhüttl",
+      "name": "Ralph Hasenhüttl"
+    },
+    "competitionId": "football_england_league_1",
+    "stadium": {
+      "capacity": 32505,
+      "name": "St. Mary's Stadium"
+    },
+    "slug": "southampton",
+    "colors": {
+      "primary": "#ff0000",
+      "text": "#ffffff",
+      "secondary": "#ffffff"
+    },
+    "shortName": "Southampton",
+    "teamId": "yn1U2MUAJWH3S6E8cgPO"
+  },
+  "zYLLXurT32XqlHLOgPEk": {
+    "country": "england",
+    "shortName": "Wolverhampton",
+    "stadium": {
+      "capacity": 30852,
+      "name": "Molineux Stadium"
+    },
+    "colors": {
+      "text": "#000000",
+      "primary": "#ff9900",
+      "secondary": "#000000"
+    },
+    "slug": "wolverhampton",
+    "nameCode": "WOL",
+    "name": "Wolverhampton",
+    "competitionId": "football_england_league_1",
+    "manager": {
+      "shortName": "N. E. Santo",
+      "slug": "nuno-espirito-santo",
+      "name": "Nuno Espírito Santo"
+    },
+    "teamId": "zYLLXurT32XqlHLOgPEk"
+  },
+  "zrRjjcgeCZj95fQzPuMa": {
+    "stadium": {
+      "name": "Estadio Ramon de Carranza",
+      "capacity": 20724
+    },
+    "nameCode": "CAD",
+    "manager": {
+      "shortName": "A. Cervera",
+      "name": "Alvaro Cervera",
+      "slug": "alvaro-cervera"
+    },
+    "name": "Cádiz",
+    "slug": "cadiz",
+    "competitionId": "football_spain_league_1",
+    "shortName": "Cádiz",
+    "country": "spain",
+    "colors": {
+      "secondary": "#001d43",
+      "text": "#001d43",
+      "primary": "#ffff00"
+    },
+    "teamId": "zrRjjcgeCZj95fQzPuMa"
+  },
+  "zsRZVrjf78abJDVF7YIE": {
+    "competitionId": "football_england_league_1",
+    "name": "Sheffield United",
+    "shortName": "Sheffield Utd",
+    "manager": {
+      "name": "Chris Wilder",
+      "slug": "chris-wilder",
+      "shortName": "C. Wilder"
+    },
+    "nameCode": "SUN",
+    "country": "england",
+    "colors": {
+      "text": "#ff0000",
+      "secondary": "#ff0000",
+      "primary": "#ffffff"
+    },
+    "stadium": {
+      "name": "Bramall Lane",
+      "capacity": 32702
+    },
+    "slug": "sheffield-united",
+    "teamId": "zsRZVrjf78abJDVF7YIE"
+  }
+}
